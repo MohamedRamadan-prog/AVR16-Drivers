@@ -1,4 +1,4 @@
-# EmbeddedSystemDiplomaBased-on-AVR
+# AVR16 - All Drivers
 
 #List of drivers:
 I2C 
